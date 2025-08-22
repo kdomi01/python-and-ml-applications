@@ -1,4 +1,4 @@
-# Departure Tracker CLI
+# Delay Tracker CLI
 
 A command-line interface (CLI) to fetch and store real-time public transport departures using the BVG API.  
 This project demonstrates a small end-to-end pipeline: API requests → SQLite database → CLI output.
@@ -85,4 +85,5 @@ Tests include:
 Designed for demonstration purposes; focuses on API integration, CLI, and database operations.
 
 The project emphasizes clean structure, modularity, and testability.
+
 
